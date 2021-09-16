@@ -29,7 +29,7 @@ nav {
 
 a:hover {
     color: #A4A7AD;
-    background-color: #D03838;
+    background-color: white;
     text-transform: uppercase;
 }
 
@@ -63,9 +63,11 @@ a:visited {
 
 img {
   border: 2px solid #ddd;
-  border-radius: 10px;
-  width: 300px; height: 300px;
-  align: center;
+  border-radius: 20px;
+  width: 400px; height: 400px;
+  text-align: center;
+  border: 5px solid black;
+  
 
 }
 
@@ -75,4 +77,12 @@ hr {
    height: 1px;
    color: black;
    background-color: black;
+}
+
+footer {
+	background-color: black;
+	color: white;
+	font-style: italic;
+	text-align: center;
+	font-size: 14px;
 }
