@@ -1,5 +1,5 @@
 body {
-    background-color:#F3D2A6;
+    background-color:#F5BE9C;
     font-family: Helvetica, Arial, sans-serif;
 }
 
@@ -7,6 +7,7 @@ h1 {
     text-decoration: underline;
     font-style: italic;
     font-weight: bold;
+    text-align: center;
 }
 
 a:hover {
@@ -20,8 +21,8 @@ a:visited {
     color: #4D38D0;
 }
 .style1 {
-    background-color: #BDB0B0;
-    color: #630969;
+    background-color: #393533;
+    color: white;
     border-style: dashed;
     border-width: 2px;
     border-color: black;
